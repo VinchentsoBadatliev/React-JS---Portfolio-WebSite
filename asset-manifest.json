@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.249f6d94.css",
+    "main.js": "/static/js/main.49d95eb6.js",
+    "static/media/Vinchenco-1.jpg": "/static/media/Vinchenco-1.8eb3ca96af5d46b54dee.jpg",
+    "static/media/Vinchenco-2.jpg": "/static/media/Vinchenco-2.04791daac91ef38bf5db.jpg",
+    "static/media/webybrothers.bg.png": "/static/media/webybrothers.bg.2510ee7558fdafff41c8.png",
+    "static/media/portfoli-1.png": "/static/media/portfoli-1.f51e45fa2c96ccf16476.png",
+    "static/media/socialmedia.png": "/static/media/socialmedia.e0b1932e492d25858467.png",
+    "static/media/Vinchentso-3.png": "/static/media/Vinchentso-3.270cb7f0beeca5b9dbc7.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.200ee81062500270d47f.png",
+    "static/media/thumbnail.jpg": "/static/media/thumbnail.6bfd4a1adb5817fa896b.jpg",
+    "static/media/edenthought.png": "/static/media/edenthought.570de0fb592a75763c85.png",
+    "static/media/IT-CV.pdf": "/static/media/IT-CV.af164bb32809f4fb70a6.pdf",
+    "static/media/avatar5.jpg": "/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/avatar7.jpg": "/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
+    "static/media/avatar6.jpg": "/static/media/avatar6.8fbcd9d41881b442663e.jpg",
+    "index.html": "/index.html",
+    "main.249f6d94.css.map": "/static/css/main.249f6d94.css.map",
+    "main.49d95eb6.js.map": "/static/js/main.49d95eb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249f6d94.css",
+    "static/js/main.49d95eb6.js"
+  ]
+}
